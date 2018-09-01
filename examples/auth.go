@@ -7,7 +7,7 @@ import (
 	"log"
 
 	"github.com/buaazp/fasthttprouter"
-	"github.com/valyala/fasthttp"
+	"github.com/ikozinov/fasthttp"
 )
 
 var basicAuthPrefix = []byte("Basic ")

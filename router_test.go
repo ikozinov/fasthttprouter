@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/valyala/fasthttp"
+	"github.com/ikozinov/fasthttp"
 )
 
 func TestParams(t *testing.T) {

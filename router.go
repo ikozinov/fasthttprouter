@@ -13,7 +13,7 @@
 //     "log"
 //
 //     "github.com/buaazp/fasthttprouter"
-//     "github.com/valyala/fasthttp"
+//     "github.com/ikozinov/fasthttp"
 // )
 
 // func Index(ctx *fasthttp.RequestCtx, _ fasthttprouter.Params) {
@@ -81,7 +81,7 @@ package fasthttprouter
 import (
 	"strings"
 
-	"github.com/valyala/fasthttp"
+	"github.com/ikozinov/fasthttp"
 )
 
 var (
